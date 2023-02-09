@@ -1,6 +1,6 @@
 [![MasterHead](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Hero-Blogpost_190121_8MB.gif)]
 <h1 align="center">Hi 👋, I'm Amrutesh Naregal</h1>
-<h3 align="center">A Tech Enthuasist from India</h3>
+<h3 align="center">A Tech Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragonemperor9480&label=Profile%20views&color=0e75b6&style=flat" alt="dragonemperor9480" /> </p>
