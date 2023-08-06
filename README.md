@@ -1,4 +1,3 @@
-[![MasterHead](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Hero-Blogpost_190121_8MB.gif)]
 <h1 align="center">Hi 👋, I'm Amrutesh Naregal</h1>
 <h3 align="center">A Tech Enthusiast from India</h3>
 
