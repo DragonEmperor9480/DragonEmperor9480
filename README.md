@@ -1,22 +1,8 @@
-<!-- ASCII Art Header -->
-```
-  ███████╗ ██╗  ██╗███████╗██╗     ██╗      ██████╗ 
-  ██╔════╝ ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
-  █████╗   ███████║█████╗  ██║     ██║     ██║   ██║
-  ██╔══╝   ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
-  ███████╗ ██║  ██║███████╗███████╗███████╗╚██████╔╝
-  ╚══════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ 
-```
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=3EEEB1&center=true&vCenter=true&random=false&width=635&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Amrutesh+Naregal;Open+Source+Enthusiast;Android+Developer" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome">
-</div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dragonemperor9480&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="dragonemperor9480" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dragonemperor9480&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="dragonemperor9480" /> </p>
 
 <!-- Matrix-style divider -->
 <div align="center">
@@ -49,18 +35,6 @@
 
 <br>
 
-<div align="center">
-  <h3>🛠️ Tech Journey</h3>
-  
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
-  
-  ```text
-  🌟 Web Development  ==========>  React, Django, JavaScript, HTML/CSS
-  📱 Mobile Development  =======>  Android, Kotlin, Flutter
-  ⚙️ DevOps & Tools  ==========>  Docker, Kubernetes, Git
-  💾 Databases  =============>  MySQL, MongoDB
-  ```
-</div>
 
 <div align="center">
   <h3>💫 Favorite Tech Stack</h3>
@@ -105,11 +79,11 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/yourusername/cybersurakshit">
+  <a href="https://github.com/DragonEmperor9480/CyberSurakshit">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DragonEmperor9480&repo=cybersurakshit&theme=gotham" />
   </a>
-  <a href="https://github.com/yourusername/device-trees">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DragonEmperor9480&repo=device_tree_realme_lunaa&theme=gotham" />
+  <a href="https://github.com/Dragon-s-Playground">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dragon-s-Playground&repo=ayaka_kernel_rmx3371&theme=gotham" />
   </a>
 </div>
 
