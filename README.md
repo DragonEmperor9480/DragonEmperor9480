@@ -1,138 +1,94 @@
+# Amrutesh Naregal
+
+**Cloud & Backend Developer | Open Source Contributor**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dragonemperor9480&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="dragonemperor9480" />
+</p>
+
+---
+
+## About Me
+
+- **Cloud & Backend Developer** with expertise in distributed systems and cloud infrastructure
+- Currently working on **Android Development** and **Open Source Projects**
+- Specializing in **Cloud Native Technologies** and **DevOps** practices
+- Passionate about exploring new technologies and contributing to open source
+- Building scalable solutions with **Go**, **Dart**, **React**, **Node.js**, and **Docker**
+- Enthusiast of Custom ROM Development and Linux systems
+
+---
+
+## Tech Stack
+
+### Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Backend & Cloud
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+---
+
+## GitHub Stats
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=3EEEB1&center=true&vCenter=true&random=false&width=635&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Amrutesh+Naregal;Open+Source+Enthusiast;Android+Developer" alt="Typing SVG" />
-</div>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dragonemperor9480&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="dragonemperor9480" /> </p>
-
-<!-- Matrix-style divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<details open>
-<summary><b>🚀 About Me</b></summary>
-
-<div align="center">
-  <h3>✨ Turning Coffee into Code Since 2021 ☕</h3>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-</div>
-
-<div align="center">
-  <h3>🎯 Quick Facts</h3>
-  <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180"/>
-</div>
-
-<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DragonEmperor9480&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=ffffff" alt="GitHub Stats" />
   
-- 🎓 Computer Science Student at **SKSVMACET College**
-- 💼 Ex-Intern at **AMBA SOFTWARES** working on Full Stack Development
-- 🔭 Currently working on **Android Development** and **Open Source Projects**
-- 🌱 Learning **Cloud Native Technologies** and **DevOps**
-- 💡 Love to explore new technologies and contribute to open source
-- 🚀 Building cool stuff with **Flutter**, **React**, and **Django**
-- 🎮 When not coding: Building Custom ROMs and exploring Linux
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DragonEmperor9480&theme=gotham&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragonEmperor9480&theme=gotham&layout=compact&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=ffffff" alt="Top Languages" />
 </div>
 
-<br>
-
-
-<div align="center">
-  <h3>💫 Favorite Tech Stack</h3>
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="55" title="HTML">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="55" title="CSS">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="55" title="JavaScript">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="55" title="React">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="55" title="Python">
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="55" title="NodeJS">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" title="Git">
-</div>
-
-</details>
-
-<details open>
-<summary><b>🏆 Achievements</b></summary>
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
-        <p><b>Runner-Up</b><br>National Level Hackathon<br>(Codefiesta 4.0)</p>
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="60">
-        <p><b>Second Prize</b><br>National Level Paper<br>Presentation</p>
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60">
-        <p><b>Winner</b><br>Mini-Project<br>Exhibition</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-</details>
-
-<details open>
-<summary><b>💻 Projects</b></summary>
-<br>
+## Featured Projects
 
 <div align="center">
   <a href="https://github.com/DragonEmperor9480/CyberSurakshit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DragonEmperor9480&repo=cybersurakshit&theme=gotham" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DragonEmperor9480&repo=cybersurakshit&theme=gotham&hide_border=true" alt="CyberSurakshit" />
   </a>
   <a href="https://github.com/Dragon-s-Playground">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dragon-s-Playground&repo=ayaka_kernel_rmx3371&theme=gotham" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dragon-s-Playground&repo=ayaka_kernel_rmx3371&theme=gotham&hide_border=true" alt="Ayaka Kernel" />
   </a>
 </div>
 
-```mermaid
-graph LR
-    A[CyberSurakshit] --> B[Android Security]
-    A --> C[Storage Management]
-    A --> D[Threat Detection]
-    
-    E[Device Trees] --> F[Realme GT Neo 3T]
-    E --> G[Xiaomi Pad 6]
-    
-    H[Portfolio] --> I[KDE Inspired]
-    H --> J[Modern Design]
-    
-    K[Course Platform] --> L[Free Learning]
-    K --> M[Accessibility]
-```
+## Certifications
 
-</details>
+- **Full Stack Development** - GeeksForGeeks
+- **Docker Training** - KodeKloud (Basic & Advanced)
+- **Linux Introduction** - LinkedIn Learning
+- **Git Essentials** - LinkedIn Learning
+- **Java OOP** - LinkedIn Learning
+- **C++ Fundamentals** - LinkedIn Learning
+- **Cybersecurity Awareness** - LinkedIn Learning
+- **Docker & Kubernetes** - Scaler
 
-## 🛠️ Tech Arsenal
-
-<!-- Dynamic Metrics Dashboard -->
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
-</div>
+## GitHub Activity
 
 <div align="center">
-  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DragonEmperor9480&theme=gotham&hide_border=true&bg_color=0d1117&title_color=64ffda&line=64ffda&point=64ffda" alt="GitHub Activity Graph" />
 </div>
 
-## 📊 Stats Interface
-
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DragonEmperor9480&theme=gotham&layout=compact)
-
-[![Amrutesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DragonEmperor9480&?count_private=false&theme=gotham&show_icons=true&include_all_commits=yes)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DragonEmperor9480&theme=gotham)](https://git.io/streak-stats)
-
-[![Amrutesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DragonEmperor9480&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-## 🔌 Connect with me
+## Connect with Me
 
 <div align="center">
   <a href="https://linkedin.com/in/amrutesh-naregal">
@@ -141,34 +97,13 @@ graph LR
   <a href="mailto:amruteshnaregal1234@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://github.com/DragonEmperor9480">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
 
-<!-- Matrix-style footer -->
-<div align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                         @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know@@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out  @@
-@@   ❮/ \`-'/ \❯                                      @@
-@@     _/`U'\_                                        @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) ) |    @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                       @@
-@@     |_.^._|                                        @@
-@@     | |"| |                                        @@
-@@     ( ) ( )   Testing leads to failure             @@
-@@     |_| |_|   and failure leads to understanding   @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
+---
 
-</div>
-
-<!-- Dynamic Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
